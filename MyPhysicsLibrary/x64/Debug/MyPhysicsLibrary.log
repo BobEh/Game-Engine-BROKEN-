@@ -1,0 +1,7 @@
+﻿  cIntegrator.cpp
+  cRigidBody.cpp
+  cSoftBody.cpp
+  cWorld.cpp
+  nCollide.cpp
+  Generating Code...
+  MyPhysicsLibrary.vcxproj -> D:\School - GDP\Semester 2\!Main Project\Graphics Project - Physics\x64\Debug\MyPhysicsLibrary.lib
