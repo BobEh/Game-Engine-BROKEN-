@@ -32,8 +32,26 @@
 *.app
 
 # vs folder
-.vs/*
+.vs/
 
 # output folder
 x64/
 x64
+*.vcxproj
+*.filters
+*.log
+*.tlog
+*.lastbuildstate
+*.pdb
+*.iobj
+*.ipdb
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
